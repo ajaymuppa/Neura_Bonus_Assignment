@@ -1,4 +1,4 @@
-# Neura_Bonus_Assignment
+# Neural_Bonus_Assignment
 # Home & Bonus Assignment – Transformers and Conditional GANs
 
 **Student Name**: Sai Sravan Chintala  
