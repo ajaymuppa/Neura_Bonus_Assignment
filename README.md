@@ -1,8 +1,8 @@
 # Neural_Bonus_Assignment
 # Home & Bonus Assignment – Transformers and Conditional GANs
 
-**Student Name**: Sai Sravan Chintala  
-**Student ID**: 700773836  
+**Student Name**: Ajay Muppa
+**Student ID**: 700769264  
 **Course**: Summer 2025 Neural Network & Deep Learning (CS-5720-0) 
 **Submission Date**: 06/18/2025
 
